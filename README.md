@@ -18,6 +18,7 @@
 7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。(`$ cd Desktop/shape-sample-data-for-pandas-master`)
 8. `$ pip install -r requirements.txt`を実行する。
 9. `$ python main.py`を実行する。
+10. output.csvを確認する。
 
 ## 参考文献
 https://note.nkmk.me/python-pip-install-requirements/
