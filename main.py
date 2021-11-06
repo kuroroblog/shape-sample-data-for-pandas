@@ -30,7 +30,7 @@ d2 = {}
 for k, v in dict.items():
     d2[k] = pd.Series(v)
 result = pd.DataFrame(d2)
-
 print(result)
+
 # to_csv参考 : https://note.nkmk.me/python-pandas-to-csv/
 result.to_csv('output.csv')
